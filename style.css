@@ -41,7 +41,7 @@
     width: 20%;
     height: auto;
     align-content: center;
-    padding: 20px;
+    padding: 10px;
        
     
   }
@@ -74,9 +74,13 @@
 }
 .navtext
  {
-      color: aliceblue;  
-      text-align: left;
-      margin-left: 10px;
+      
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
      
 }
   
